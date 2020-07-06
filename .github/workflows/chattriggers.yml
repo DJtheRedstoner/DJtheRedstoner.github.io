@@ -30,7 +30,7 @@ jobs:
       run: chmod +x chattriggers/gradlew
       
     - name: Generate JavaDocs
-      run: ./gradlew chattriggers/gradlew userdocs
+      run: ./chattriggers/gradlew userdocs
       
     - name: Remove Old Docs
       run: rm -rf site/chattriggers/javadocs
