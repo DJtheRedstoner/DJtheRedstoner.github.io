@@ -40,7 +40,7 @@ jobs:
       run: mkdir -p site/chattriggers/javadocs
       
     - name: Copy JavaDocs
-      run: cp chattriggers/build/javadoc/* site/chattriggers/javadocs
+      run: cp -r chattriggers/build/javadoc/* site/chattriggers/javadocs
       
     - name: Commit Changes
       run: |
