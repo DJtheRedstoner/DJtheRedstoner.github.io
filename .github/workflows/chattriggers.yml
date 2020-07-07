@@ -29,6 +29,7 @@ jobs:
     - name: Generate JavaDocs
       run: |
         chmod +x gradlew
+        ./gradlew setupCIWorkspace
         ./gradlew userdocs
       working-directory: chattriggers
       
