@@ -1,7 +1,7 @@
 name: ChatTriggers
 
 on:
-  push:
+  workflow_dispatch:
 
 jobs:
   javadocs:
