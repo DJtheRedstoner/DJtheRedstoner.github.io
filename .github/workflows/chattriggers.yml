@@ -16,8 +16,9 @@ jobs:
     - name: Checkout ChatTriggers 
       uses: actions/checkout@v2
       with:
-        repository: ChatTriggers/ChatTriggers
+        repository: DJtheRedstoner/ChatTriggers
         path: chattriggers
+        ref: new-javadocs
     
     - name: Setup Java JDK
       uses: actions/setup-java@v1.3.0
@@ -28,7 +29,7 @@ jobs:
       run: |
         chmod +x gradlew
         ./gradlew setupCIWorkspace
-        ./gradlew userdocs
+        ./gradlew dokkaHtml
       working-directory: chattriggers
       
     - name: Remove Old Docs
