@@ -29,7 +29,7 @@ jobs:
       run: |
         chmod +x gradlew
         ./gradlew setupCIWorkspace
-        ./gradlew dokkaHtml
+        ./gradlew userdocs
       working-directory: chattriggers
       
     - name: Remove Old Docs
