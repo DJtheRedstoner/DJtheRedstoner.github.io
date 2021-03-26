@@ -1,1 +1,1 @@
-sourceset_dependencies = '{":userdocs/main": []}'
+sourceset_dependencies='{":userdocs/main":[]}'
