@@ -29,7 +29,7 @@ jobs:
       run: |
         chmod +x gradlew
         ./gradlew setupCIWorkspace
-        ./gradlew userdocs
+        ./gradlew dokkaUserdocs
       working-directory: chattriggers
       
     - name: Remove Old Docs
@@ -39,7 +39,7 @@ jobs:
       run: mkdir -p site/chattriggers/javadocs
       
     - name: Copy JavaDocs
-      run: cp -r chattriggers/build/javadoc/* site/chattriggers/javadocs
+      run: cp -r chattriggers/build/dokkaJavadoc/* site/chattriggers/javadocs
       
     - name: Commit Changes
       run: |
