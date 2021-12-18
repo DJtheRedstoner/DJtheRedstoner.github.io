@@ -1,22 +1,6 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.chattriggers.ctjs.engine////PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/index.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader///PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/index.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/addTrigger/#com.chattriggers.ctjs.triggers.OnTrigger/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/add-trigger.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/asmInvokeLookup/#com.chattriggers.ctjs.engine.module.Module#java.net.URI/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/asm-invoke-lookup.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/asmPass/#com.chattriggers.ctjs.engine.module.Module#java.net.URI/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/asm-pass.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/asmSetup/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/asm-setup.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/clearTriggers/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/clear-triggers.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/console/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/console.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/entryPass/#com.chattriggers.ctjs.engine.module.Module#java.net.URI/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/entry-pass.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/entrySetup/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/entry-setup.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/eval/#kotlin.String/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/eval.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/exec/#com.chattriggers.ctjs.triggers.TriggerType#kotlin.Array[kotlin.Any?]/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/exec.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/getLanguage/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/get-language.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/removeTrigger/#com.chattriggers.ctjs.triggers.OnTrigger/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/remove-trigger.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/saveResource/#kotlin.String?#java.io.File#kotlin.Boolean/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/save-resource.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/setup/#kotlin.collections.List[java.net.URL]/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/setup.html
-$dokka.location:com.chattriggers.ctjs.engine/ILoader/trigger/#com.chattriggers.ctjs.triggers.OnTrigger#kotlin.Any#kotlin.Array[kotlin.Any?]/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-loader/trigger.html
 $dokka.location:com.chattriggers.ctjs.engine/IRegister.Companion///PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-register/-companion/index.html
 $dokka.location:com.chattriggers.ctjs.engine/IRegister///PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-register/index.html
 $dokka.location:com.chattriggers.ctjs.engine/IRegister/getImplementationLoader/#/PointingToDeclaration/-chat-triggers/com.chattriggers.ctjs.engine/-i-register/get-implementation-loader.html
