@@ -1,1 +1,1 @@
-sourceset_dependencies='{":dokkaUserdocs/main":[]}'
+sourceset_dependencies='{":userdocs/main":[]}'
